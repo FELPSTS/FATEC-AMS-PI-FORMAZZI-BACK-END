@@ -17,7 +17,7 @@ INSTALLED_APPS = [#esse bloco de comando serve para você definir os modulos e c
     'adm',#adm
     'empresa',#empresa
     #'funcionario',#funcionario
-    #'curso',#curso
+    'curso',#curso
     #'modulo',#modulo
     #'atividade',#atividade
     #'prova',#prova

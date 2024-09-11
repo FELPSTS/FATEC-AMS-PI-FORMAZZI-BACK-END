@@ -9,4 +9,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', home),  # Página de boas-vindas na raiz
     path('adms/', include('adm.urls')),
+    path('empresa/', include('empresa.urls')),
+    path('curso/', include('curso.urls')),
 ]
